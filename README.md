@@ -1,0 +1,1 @@
+completed present environment including enemy ai using nav mesh agent, modern city, player smoothness, obstacle collision, and also this time spawn the environment by using looping method which reduce the memory and in past environment add enemy spawner randomly which create challenging game play. Thank YOU
